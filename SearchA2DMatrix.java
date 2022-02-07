@@ -23,7 +23,6 @@ class Solution {
 }
 
 /*
-Time Complexity : O(m+n)
-  where m,n are the number of rows and columns respectively.
+Time Complexity : O(M+N), where "M","N" are the number of rows and columns respectively in the input 2D array "matrix".
 Space Complexity : O(1)
 */
