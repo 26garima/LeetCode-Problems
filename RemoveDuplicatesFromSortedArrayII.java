@@ -34,5 +34,5 @@ class Solution {
     }
 }
 
-// Time Complexity : O(n)
+// Time Complexity : O(N), where "N" is the length of the input array "nums".
 // Space Complexity : O(1)
